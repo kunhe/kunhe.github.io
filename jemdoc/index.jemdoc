@@ -90,7 +90,7 @@ IJCV 2018
 Deep Metric Learning to Rank
 [http://openaccess.thecvf.com/content_CVPR_2019/html/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.html
  \[PDF\]]
-[papers/FastAP_poster.pdf \[Poster\]]
+[papers/cvpr2019_poster.pdf \[Poster\]]
 [https://github.com/kunhe/FastAP-metric-learning \[Code\]]
 \n
 *Kun He*\*, 
@@ -156,7 +156,7 @@ CVPR 2018
 {}{img_left}{images/TALR1.png}{TALR}{150px}{}{}
 Hashing as Tie-Aware Learning to Rank 
 [http://openaccess.thecvf.com/content_cvpr_2018/html/He_Hashing_as_Tie-Aware_CVPR_2018_paper.html \[PDF\]]
-[papers/TALR_poster.pdf \[Poster\]]
+[papers/cvpr2018_TALR_poster.pdf \[Poster\]]
 [http://github.com/kunhe/TALR \[Code\]] \n
 *Kun He*, 
 [http://cs-people.bu.edu/fcakir Fatih Cakir], 
@@ -169,7 +169,7 @@ CVPR 2018
 {}{img_left}{images/mihash.png}{MIHash}{150px}{100px}{}
 MIHash: Online Hashing with Mutual Information 
 [http://openaccess.thecvf.com/content_iccv_2017/html/Cakir_MIHash_Online_Hashing_ICCV_2017_paper.html \[PDF\]] 
-[papers/MIHash_iccv17poster.pdf \[Poster\]]
+[papers/iccv2017_poster.pdf \[Poster\]]
 [https://github.com/fcakir/mihash \[Code\]]\n
 *Kun He*\*, 
 [http://cs-people.bu.edu/fcakir *Fatih Cakir*]\*, 
@@ -195,7 +195,7 @@ ECCV 2014\n
 ~~~
 {}{img_left}{images/cvpr2012.png}{cvpr12}{150px}{110px}{}
 Scale Resilient, Rotation Invariant Articulated Object Matching 
-[papers/cvpr2012.pdf \[PDF\]]
+[papers/cvpr2012.pdf \[PDF\]]\n
 [http://www.hao-jiang.net/ Hao Jiang], 
 [http://scholar.google.com/citations?user=1MceCxsAAAAJ Tai-Peng Tian], 
 *Kun He*, 
