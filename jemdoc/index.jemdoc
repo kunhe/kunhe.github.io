@@ -54,7 +54,7 @@ and [papers/DOAP/index.html project page] for CVPR'18 "Local Descriptors" paper.
 
 === Journal Publications
 ~~~
-{}{img_left}{papers/mihash_tpami.png}{MIHash}{150px}{110px}{}
+{}{img_left}{images/mihash_tpami.png}{MIHash}{150px}{110px}{}
 Hashing with Mutual Information
 [https://ieeexplore.ieee.org/document/8705282 \[PDF\]]
 [http://arxiv.org/abs/1803.00974 \[arXiv\]]
@@ -69,7 +69,7 @@ TPAMI 2019
 ~~~
 
 ~~~
-{}{img_left}{papers/ambiguous_truth.jpg}{ambiguous}{150px}{}{}
+{}{img_left}{images/ambiguous_truth.jpg}{ambiguous}{150px}{}{}
 Predicting Foreground Object Ambiguity and Efficiently Crowdsourcing the Segmentation(s) 
 [http://www.ischool.utexas.edu/~dannag/STATIC \[Project page\]]
 \n
@@ -86,7 +86,7 @@ IJCV 2018
 === Conference Publications
 
 ~~~
-{}{img_left}{papers/fastap.png}{FastAP}{150px}{120px}{}
+{}{img_left}{images/fastap.png}{FastAP}{150px}{120px}{}
 Deep Metric Learning to Rank
 [http://openaccess.thecvf.com/content_CVPR_2019/html/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.html
  \[PDF\]]
@@ -104,7 +104,7 @@ CVPR 2019
 ~~~
 
 ~~~
-{}{img_left}{papers/gmm.png}{G-MM}{150px}{70px}{}
+{}{img_left}{images/gmm.png}{G-MM}{150px}{70px}{}
 Generalized Majorization-Minimization 
 [http://proceedings.mlr.press/v97/parizi19a \[PDF\]]\n
 Sobhan Naderi Parizi, *Kun He*, Reza Aghajani, 
@@ -114,7 +114,7 @@ ICML 2019
 ~~~
 
 ~~~
-{}{img_left}{papers/text2clip.png}{Text2Clip}{150px}{100px}{}
+{}{img_left}{images/text2clip.png}{Text2Clip}{150px}{100px}{}
 Multilevel Language and Vision Integration for Text-to-Clip Retrieval
 [http://arxiv.org/abs/1804.05113 \[arXiv\]]
 [https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval
@@ -130,7 +130,7 @@ AAAI 2019
 ~~~
 
 ~~~
-{}{img_left}{papers/HBMP.png}{HBMP}{150px}{115px}{}
+{}{img_left}{images/HBMP.png}{HBMP}{150px}{115px}{}
 Hashing with Binary Matrix Pursuit 
 [http://openaccess.thecvf.com/content_ECCV_2018/html/Fatih_Cakir_Hashing_with_Binary_ECCV_2018_paper.html \[PDF\]]
 [http://cs-people.bu.edu/fcakir/eccv2018/hbmp-poster.pdf \[Poster\]]
@@ -142,7 +142,7 @@ ECCV 2018
 ~~~
 
 ~~~
-{}{img_left}{papers/DOAP.png}{DOAP}{150px}{70px}{}
+{}{img_left}{images/DOAP.png}{DOAP}{150px}{70px}{}
 Local Descriptors Optimized for Average Precision
 [http://openaccess.thecvf.com/content_cvpr_2018/html/He_Local_Descriptors_Optimized_CVPR_2018_paper.html \[PDF\]]
 [papers/DOAP/index.html \[Project page\]] \n
@@ -153,7 +153,7 @@ CVPR 2018
 ~~~
 
 ~~~
-{}{img_left}{papers/TALR1.png}{TALR}{150px}{}{}
+{}{img_left}{images/TALR1.png}{TALR}{150px}{}{}
 Hashing as Tie-Aware Learning to Rank 
 [http://openaccess.thecvf.com/content_cvpr_2018/html/He_Hashing_as_Tie-Aware_CVPR_2018_paper.html \[PDF\]]
 [papers/TALR_poster.pdf \[Poster\]]
@@ -166,7 +166,7 @@ CVPR 2018
 ~~~
 
 ~~~
-{}{img_left}{papers/mihash.png}{MIHash}{150px}{100px}{}
+{}{img_left}{images/mihash.png}{MIHash}{150px}{100px}{}
 MIHash: Online Hashing with Mutual Information 
 [http://openaccess.thecvf.com/content_iccv_2017/html/Cakir_MIHash_Online_Hashing_ICCV_2017_paper.html \[PDF\]] 
 [papers/MIHash_iccv17poster.pdf \[Poster\]]
@@ -180,10 +180,9 @@ ICCV 2017
 ~~~
 
 ~~~
-{}{img_left}{papers/eccv2014.png}{eccv14}{150px}{100px}{}
+{}{img_left}{images/eccv2014.png}{eccv14}{150px}{100px}{}
 Parameterizing Object Detectors in the Continuous Pose Space
 [papers/posedet_eccv14_camready2.pdf \[PDF\]]
-[papers/kh-eccv14.bib \[BibTeX\]]
 [papers/eccv_poster_v3.pdf \[Poster\]]
 [http://youtu.be/1lpORI6ZnjE \[video\]]\n
 *Kun He*, 
@@ -194,10 +193,9 @@ ECCV 2014\n
 ~~~
 
 ~~~
-{}{img_left}{papers/cvpr2012.png}{cvpr12}{150px}{110px}{}
+{}{img_left}{images/cvpr2012.png}{cvpr12}{150px}{110px}{}
 Scale Resilient, Rotation Invariant Articulated Object Matching 
 [papers/cvpr2012.pdf \[PDF\]]
-[papers/hj-cvpr12.bib \[BibTeX\]]\n
 [http://www.hao-jiang.net/ Hao Jiang], 
 [http://scholar.google.com/citations?user=1MceCxsAAAAJ Tai-Peng Tian], 
 *Kun He*, 
@@ -207,7 +205,7 @@ CVPR 2012
 
 === Theses
 ~~~
-{}{img_left}{BUseal.jpg}{phdthesis}{150px}{90px}{}
+{}{img_left}{images/BUseal.jpg}{phdthesis}{150px}{90px}{}
 Learning Deep Embeddings by Learning to Rank
 [https://open.bu.edu/handle/2144/34773 \[PDF\]]\n
 *Kun He*\n
@@ -215,7 +213,7 @@ Ph.D. dissertation, Boston University, 2018
 ~~~
 
 ~~~
-{}{img_left}{papers/sfd.png}{msthesis}{150px}{100px}{}
+{}{img_left}{images/sfd.png}{msthesis}{150px}{100px}{}
 Stochastic Functional Descent for Learning Support Vector Machines
 [https://open.bu.edu/handle/2144/14104 \[PDF\]]\n
 *Kun He*\n
