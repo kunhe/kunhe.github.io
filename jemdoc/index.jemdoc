@@ -182,14 +182,14 @@ ICCV 2017
 ~~~
 {}{img_left}{images/eccv2014.png}{eccv14}{150px}{100px}{}
 Parameterizing Object Detectors in the Continuous Pose Space
-[papers/posedet_eccv14_camready2.pdf \[PDF\]]
-[papers/eccv_poster_v3.pdf \[Poster\]]
+[papers/eccv2014.pdf \[PDF\]]
+[papers/eccv2014_poster.pdf \[Poster\]]
 [http://youtu.be/1lpORI6ZnjE \[video\]]\n
 *Kun He*, 
 [http://cs.ubc.ca/~lsigal Leonid Sigal], 
 [http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
 ECCV 2014\n
-[papers/mk_svm_dual.pdf \[Tech report on implementation\]] 
+[papers/eccv2014_tr.pdf \[Tech report on implementation\]] 
 ~~~
 
 ~~~
@@ -222,29 +222,9 @@ M.Sc. thesis, Boston University, 2013
 
 
 == Misc
-{{<table class="imgtable"><tr><td>}}
 - [http://www.linkedin.com/in/kunhe LinkedIn profile]
 - [http://www.cs.cmu.edu/~zhuxj/readpinyin.html How to pronounce Chinese names], 
 courtesy of [http://pages.cs.wisc.edu/~jerryzhu Xiaojin Zhu]
 - At least [http://faculty.hust.edu.cn/hekun/zh_CN/index.htm two] [http://pfind.ict.ac.cn/people/hekun/ other] computer scientists have the same English translation of their names as mine
 - I'm very fortunate to have had [http://cs-people.bu.edu/qinxun Qinxun Bai] and 
 [http://cs-people.bu.edu/fcakir Fatih Cakir] as officemates
-{{</td><td>
-<div id="clustrmaps-widget" align="right">
-<script type="text/javascript">
-var _clustrmaps = {'url':'http://kunhe.github.io', 'user':1083866, 'server':'2', 'id':'clustrmaps-widget', 'version':1, 'date':'2013-03-12', 'lang':'en', 'corners':'square'};
-(function (){ 
-	var s = document.createElement('script'); 
-	s.type = 'text/javascript'; 
-	s.async = true; 
-	s.src = 'http://www2.clustrmaps.com/counter/map.js'; 
-	var x = document.getElementsByTagName('script')[0]; 
-	x.parentNode.insertBefore(s, x);
-})();
-</script>
-<noscript>
-<a href="http://www2.clustrmaps.com/user/e081089da">
-<img src="http://www2.clustrmaps.com/stats/maps-no_clusters/cs-people.bu.edu-hekun-thumb.jpg" alt="Locations of visitors to this page" />
-</a></noscript>
-</div>
-</td></tr></table>}}
