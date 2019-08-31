@@ -1,0 +1,252 @@
+#
+#== Kun He
+~~~
+{}{img_left}{kun16.jpg}{Kun}{150}{}{}
+= Kun He  (何坤)\n
+Research Scientist, Facebook Reality Labs\n
+Redmond, WA\n
+\n
+/firstname.lastname@oculus.com/\n
+#[CV_Kun_He_Feb2018.pdf Curriculum Vitae] (updated Feb 2018)\n
+[http://scholar.google.com/citations?user=eLFhiSYAAAAJ  Google Scholar]
+~~~
+
+== About
+I am a research scientist in [https://www.facebook.com/careers/areas-of-work/facebookrealitylabs/ Facebook Reality Labs], 
+working on the future of Virtual Reality and Augmented Reality.
+Previously, I earned PhD (2018) and MSc (2013) in computer science from Boston University,  
+advised by Professor [http://www.cs.bu.edu/~sclaroff Stan Sclaroff].
+My Bachelor's degree is from 
+[http://www.zju.edu.cn/english Zhejiang University]. 
+\n
+
+I am interested in exploring solutions to computer vision problems using machine learning 
+techniques, and I'm frequently attracted by the optimization aspect in such problems.
+My PhD dissertation focused on learning vector embeddings 
+for high-dimensional visual data, 
+which finds application in image retrieval and other related vision tasks.
+\n
+
+During grad school, I did research internships
+with [http://cs.ubc.ca/~lsigal/ Leonid Sigal] at Disney Research, 
+and
+with [http://yan-lu.github.io Yan Lu] at Honda Research Institute.
+I also worked with [http://cs.brown.edu/~pff Pedro Felzenszwalb] 
+as a visiting student at Brown University.
+
+
+== News
+- 2019/04: "Hashing with Mutual Information" accepted by IEEE TPAMI!
+- 2019/04: "Generalized Majorization-Minimization" accepted by ICML 2019!
+- 2019/02: "Deep Metric Learning to Rank" accepted by CVPR 2019! (+NEW+: [https://github.com/kunhe/FastAP-metric-learning code] released)
+- 2018/10: Joined Facebook Reality Labs.
+- 2018/10: "Text to clip" paper accepted by AAAI 2019. 
+[https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval Code] is available.
+- 2018/07: Defended PhD dissertation.
+- 2018/07: "Hashing with binary matrix pursuit" accepted by ECCV 2018.
+- 2018/06: Check out [http://github.com/kunhe/TALR code] for CVPR'18 "Tie-Aware Hashing" paper, 
+and [papers/DOAP/index.html project page] for CVPR'18 "Local Descriptors" paper.
+- 2018/01: Paper on predicting foreground segmentation ambiguity accepted by IJCV.
+- 2017/07: MIHash paper accepted by ICCV 2017. [https://github.com/fcakir/mihash Code released!]
+
+
+== Publications
+
+=== Journal Publications
+~~~
+{}{img_left}{papers/mihash_tpami.png}{MIHash}{150px}{110px}{}
+Hashing with Mutual Information
+[https://ieeexplore.ieee.org/document/8705282 \[PDF\]]
+[http://arxiv.org/abs/1803.00974 \[arXiv\]]
+[https://github.com/fcakir/mihash \[Code\]]
+\n
+*Kun He*\*, 
+[http://cs-people.bu.edu/fcakir *Fatih Cakir*]\*, 
+[http://cs-people.bu.edu/sbargal Sarah Adel Bargal], 
+[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+(\* Equal contribution)\n
+TPAMI 2019
+~~~
+
+~~~
+{}{img_left}{papers/ambiguous_truth.jpg}{ambiguous}{150px}{}{}
+Predicting Foreground Object Ambiguity and Efficiently Crowdsourcing the Segmentation(s) 
+[http://www.ischool.utexas.edu/~dannag/STATIC \[Project page\]]
+\n
+[http://www.ischool.utexas.edu/~dannag/ Danna Gurari], 
+*Kun He*, 
+Bo Xiong, Jianming Zhang, Mehrnoosh Sameki, Suyog Dutt Jain, 
+[http://www.cs.bu.edu/~sclaroff Stan Sclaroff], 
+[http://www.cs.bu.edu/~betke Margrit Betke], 
+[http://www.cs.utexas.edu/~grauman Kristen Grauman]\n
+IJCV 2018
+~~~
+
+
+=== Conference Publications
+
+~~~
+{}{img_left}{papers/fastap.png}{FastAP}{150px}{120px}{}
+Deep Metric Learning to Rank
+[http://openaccess.thecvf.com/content_CVPR_2019/html/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.html
+ \[PDF\]]
+[papers/FastAP_poster.pdf \[Poster\]]
+[https://github.com/kunhe/FastAP-metric-learning \[Code\]]
+\n
+*Kun He*\*, 
+[http://cs-people.bu.edu/fcakir *Fatih Cakir*]\*, 
+[http://xidexia.github.io Xide Xia], 
+[http://people.bu.edu/bkulis Brian Kulis], 
+[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]
+\n
+(\* Equal contribution)\n
+CVPR 2019
+~~~
+
+~~~
+{}{img_left}{papers/gmm.png}{G-MM}{150px}{70px}{}
+Generalized Majorization-Minimization 
+[http://proceedings.mlr.press/v97/parizi19a \[PDF\]]\n
+Sobhan Naderi Parizi, *Kun He*, Reza Aghajani, 
+[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff], 
+[http://cs.brown.edu/~pff Pedro Felzenszwalb]\n
+ICML 2019
+~~~
+
+~~~
+{}{img_left}{papers/text2clip.png}{Text2Clip}{150px}{100px}{}
+Multilevel Language and Vision Integration for Text-to-Clip Retrieval
+[http://arxiv.org/abs/1804.05113 \[arXiv\]]
+[https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval
+\[Code\]]
+\n
+[http://cs-people.bu.edu/hxu/ Huijuan Xu], 
+*Kun He*, 
+[http://bryanplummer.com Bryan A. Plummer], 
+[http://cs.ubc.ca/~lsigal Leonid Sigal], 
+[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff],  
+[http://ai.bu.edu/ksaenko.html Kate Saenko] \n
+AAAI 2019
+~~~
+
+~~~
+{}{img_left}{papers/HBMP.png}{HBMP}{150px}{115px}{}
+Hashing with Binary Matrix Pursuit 
+[http://openaccess.thecvf.com/content_ECCV_2018/html/Fatih_Cakir_Hashing_with_Binary_ECCV_2018_paper.html \[PDF\]]
+[http://cs-people.bu.edu/fcakir/eccv2018/hbmp-poster.pdf \[Poster\]]
+\n
+[http://cs-people.bu.edu/fcakir Fatih Cakir], 
+*Kun He*, 
+[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+ECCV 2018
+~~~
+
+~~~
+{}{img_left}{papers/DOAP.png}{DOAP}{150px}{70px}{}
+Local Descriptors Optimized for Average Precision
+[http://openaccess.thecvf.com/content_cvpr_2018/html/He_Local_Descriptors_Optimized_CVPR_2018_paper.html \[PDF\]]
+[papers/DOAP/index.html \[Project page\]] \n
+*Kun He*, 
+[http://yan-lu.github.io Yan Lu], 
+[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+CVPR 2018
+~~~
+
+~~~
+{}{img_left}{papers/TALR1.png}{TALR}{150px}{}{}
+Hashing as Tie-Aware Learning to Rank 
+[http://openaccess.thecvf.com/content_cvpr_2018/html/He_Hashing_as_Tie-Aware_CVPR_2018_paper.html \[PDF\]]
+[papers/TALR_poster.pdf \[Poster\]]
+[http://github.com/kunhe/TALR \[Code\]] \n
+*Kun He*, 
+[http://cs-people.bu.edu/fcakir Fatih Cakir], 
+[http://cs-people.bu.edu/sbargal Sarah Adel Bargal], 
+[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+CVPR 2018
+~~~
+
+~~~
+{}{img_left}{papers/mihash.png}{MIHash}{150px}{100px}{}
+MIHash: Online Hashing with Mutual Information 
+[http://openaccess.thecvf.com/content_iccv_2017/html/Cakir_MIHash_Online_Hashing_ICCV_2017_paper.html \[PDF\]] 
+[papers/MIHash_iccv17poster.pdf \[Poster\]]
+[https://github.com/fcakir/mihash \[Code\]]\n
+*Kun He*\*, 
+[http://cs-people.bu.edu/fcakir *Fatih Cakir*]\*, 
+[http://cs-people.bu.edu/sbargal Sarah Adel Bargal],
+[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+(\* Equal contribution)\n
+ICCV 2017
+~~~
+
+~~~
+{}{img_left}{papers/eccv2014.png}{eccv14}{150px}{100px}{}
+Parameterizing Object Detectors in the Continuous Pose Space
+[papers/posedet_eccv14_camready2.pdf \[PDF\]]
+[papers/kh-eccv14.bib \[BibTeX\]]
+[papers/eccv_poster_v3.pdf \[Poster\]]
+[http://youtu.be/1lpORI6ZnjE \[video\]]\n
+*Kun He*, 
+[http://cs.ubc.ca/~lsigal Leonid Sigal], 
+[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+ECCV 2014\n
+[papers/mk_svm_dual.pdf \[Tech report on implementation\]] 
+~~~
+
+~~~
+{}{img_left}{papers/cvpr2012.png}{cvpr12}{150px}{110px}{}
+Scale Resilient, Rotation Invariant Articulated Object Matching 
+[papers/cvpr2012.pdf \[PDF\]]
+[papers/hj-cvpr12.bib \[BibTeX\]]\n
+[http://www.hao-jiang.net/ Hao Jiang], 
+[http://scholar.google.com/citations?user=1MceCxsAAAAJ Tai-Peng Tian], 
+*Kun He*, 
+[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+CVPR 2012 
+~~~
+
+=== Theses
+~~~
+{}{img_left}{BUseal.jpg}{phdthesis}{150px}{90px}{}
+Learning Deep Embeddings by Learning to Rank
+[https://open.bu.edu/handle/2144/34773 \[PDF\]]\n
+*Kun He*\n
+Ph.D. dissertation, Boston University, 2018
+~~~
+
+~~~
+{}{img_left}{papers/sfd.png}{msthesis}{150px}{100px}{}
+Stochastic Functional Descent for Learning Support Vector Machines
+[https://open.bu.edu/handle/2144/14104 \[PDF\]]\n
+*Kun He*\n
+M.Sc. thesis, Boston University, 2013
+~~~
+
+
+== Misc
+{{<table class="imgtable"><tr><td>}}
+- [http://www.linkedin.com/in/kunhe LinkedIn profile]
+- [http://www.cs.cmu.edu/~zhuxj/readpinyin.html How to pronounce Chinese names], 
+courtesy of [http://pages.cs.wisc.edu/~jerryzhu Xiaojin Zhu]
+- At least [http://faculty.hust.edu.cn/hekun/zh_CN/index.htm two] [http://pfind.ict.ac.cn/people/hekun/ other] computer scientists have the same English translation of their names as mine
+- I'm very fortunate to have had [http://cs-people.bu.edu/qinxun Qinxun Bai] and 
+[http://cs-people.bu.edu/fcakir Fatih Cakir] as officemates
+{{</td><td>
+<div id="clustrmaps-widget" align="right">
+<script type="text/javascript">
+var _clustrmaps = {'url':'http://kunhe.github.io', 'user':1083866, 'server':'2', 'id':'clustrmaps-widget', 'version':1, 'date':'2013-03-12', 'lang':'en', 'corners':'square'};
+(function (){ 
+	var s = document.createElement('script'); 
+	s.type = 'text/javascript'; 
+	s.async = true; 
+	s.src = 'http://www2.clustrmaps.com/counter/map.js'; 
+	var x = document.getElementsByTagName('script')[0]; 
+	x.parentNode.insertBefore(s, x);
+})();
+</script>
+<noscript>
+<a href="http://www2.clustrmaps.com/user/e081089da">
+<img src="http://www2.clustrmaps.com/stats/maps-no_clusters/cs-people.bu.edu-hekun-thumb.jpg" alt="Locations of visitors to this page" />
+</a></noscript>
+</div>
+</td></tr></table>}}
