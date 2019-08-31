@@ -14,27 +14,21 @@ Redmond, WA\n
 
 == About
 I am a research scientist in [https://www.facebook.com/careers/areas-of-work/facebookrealitylabs/ Facebook Reality Labs], 
-working on the future of Virtual Reality and Augmented Reality.
-Previously, I earned PhD (2018) and MSc (2013) in computer science from Boston University,  
-advised by Professor [http://www.cs.bu.edu/~sclaroff Stan Sclaroff].
-My Bachelor's degree is from 
-[http://www.zju.edu.cn/english Zhejiang University]. 
-\n
-
+working on the future of interaction tracking for Virtual Reality and Augmented Reality.
 I am interested in exploring solutions to computer vision problems using machine learning 
 techniques, and I'm frequently attracted by the optimization aspect in such problems.
-My PhD dissertation focused on learning vector embeddings 
-for high-dimensional visual data, 
-which finds application in image retrieval and other related vision tasks.
-\n
 
+Previously, I earned PhD (2018) and MSc (2013) in computer science from Boston University,  
+advised by Professor [http://www.cs.bu.edu/~sclaroff Stan Sclaroff]. My PhD dissertation focused on 
+learning vector embeddings for image retrieval and other related computer vision tasks.
+#My Bachelor's degree is from [http://www.zju.edu.cn/english Zhejiang University]. 
 During grad school, I did research internships
 with [http://cs.ubc.ca/~lsigal/ Leonid Sigal] at Disney Research, 
 and
 with [http://yan-lu.github.io Yan Lu] at Honda Research Institute.
 I also worked with [http://cs.brown.edu/~pff Pedro Felzenszwalb] 
 as a visiting student at Brown University.
-
+\n
 
 == News
 - 2019/04: "Hashing with Mutual Information" accepted by IEEE TPAMI!
