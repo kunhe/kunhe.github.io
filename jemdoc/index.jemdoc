@@ -31,8 +31,7 @@ as a visiting student at Brown University.
 \n
 
 == News
-- 2019/04: "Hashing with Mutual Information" accepted by IEEE TPAMI!
-- 2019/04: "Generalized Majorization-Minimization" accepted by ICML 2019!
+- 2019/04: "Hashing with Mutual Information" accepted by IEEE TPAMI, and "Generalized Majorization-Minimization" accepted by ICML 2019!
 - 2019/02: "Deep Metric Learning to Rank" accepted by CVPR 2019! (+NEW+: [https://github.com/kunhe/FastAP-metric-learning code] released)
 - 2018/10: Joined Facebook Reality Labs.
 - 2018/10: "Text to clip" paper accepted by AAAI 2019. 
@@ -41,8 +40,8 @@ as a visiting student at Brown University.
 - 2018/07: "Hashing with binary matrix pursuit" accepted by ECCV 2018.
 - 2018/06: Check out [http://github.com/kunhe/TALR code] for CVPR'18 "Tie-Aware Hashing" paper, 
 and [papers/DOAP/index.html project page] for CVPR'18 "Local Descriptors" paper.
-- 2018/01: Paper on predicting foreground segmentation ambiguity accepted by IJCV.
-- 2017/07: MIHash paper accepted by ICCV 2017. [https://github.com/fcakir/mihash Code released!]
+#- 2018/01: Paper on predicting foreground segmentation ambiguity accepted by IJCV.
+#- 2017/07: MIHash paper accepted by ICCV 2017. [https://github.com/fcakir/mihash Code released!]
 
 
 == Publications
@@ -219,6 +218,10 @@ M.Sc. thesis, Boston University, 2013
 [https://patents.google.com/patent/US20180246985A1/en Data storage and retrieval system using online supervised hashing]\n
 Stan Sclaroff, Fatih Cakir, *Kun He*\n
 US patent application
+
+
+== Interns I've worked with
+Xiaoxu Meng, University of Maryland, 2019
 
 #== Misc
 #- [http://www.cs.cmu.edu/~zhuxj/readpinyin.html How to pronounce Chinese names], 
