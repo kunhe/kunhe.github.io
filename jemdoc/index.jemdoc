@@ -14,7 +14,8 @@ Redmond, WA\n
 
 == About
 I am a research scientist in [https://www.facebook.com/careers/areas-of-work/facebookrealitylabs/ Facebook Reality Labs], 
-working on [https://ai.facebook.com/blog/hand-tracking-deep-neural-networks the future of interaction tracking] for Virtual Reality and Augmented Reality, 
+working on [https://ai.facebook.com/blog/hand-tracking-deep-neural-networks the future of interaction tracking] 
+for Virtual Reality and Augmented Reality, 
 using computer vision and machine learning techniques. (*/We are looking for interns!/*)
 #I am interested in exploring solutions to computer vision problems using machine learning 
 #techniques, and I'm frequently attracted by the optimization aspect in such problems.
@@ -22,7 +23,7 @@ using computer vision and machine learning techniques. (*/We are looking for int
 Previously, I earned PhD (2018) and MSc (2013) degrees in computer science from Boston University,  
 advised by Professor [http://www.cs.bu.edu/~sclaroff Stan Sclaroff]. My PhD dissertation focused on 
 learning vector embeddings for image retrieval and other related computer vision tasks.
-My Bachelor's degree is from [http://www.zju.edu.cn/english Zhejiang University]. 
+My Bachelor's degree is from Zhejiang University, China. 
 During grad school, I did research internships 
 #with [http://cs.ubc.ca/~lsigal/ Leonid Sigal] 
 at Disney Research and
@@ -106,7 +107,7 @@ Generalized Majorization-Minimization
 [http://proceedings.mlr.press/v97/parizi19a \[PDF\]]\n
 Sobhan Naderi Parizi, *Kun He*, Reza Aghajani, 
 [http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff], 
-[http://cs.brown.edu/~pff Pedro Felzenszwalb]\n
+Pedro Felzenszwalb\n
 [https://icml.cc/Conferences/2019 ICML 2019]
 ~~~
 
