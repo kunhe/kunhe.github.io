@@ -33,7 +33,7 @@ and I was a visiting student at Brown University.
 \n
 
 == News
-- 2019/04: "Hashing with Mutual Information" accepted by IEEE TPAMI, and "Generalized Majorization-Minimization" accepted by ICML 2019!
+- 2019/04: "Hashing with Mutual Information" accepted by IEEE TPAMI, and "Generalized Majorization-Minimization" accepted by ICML 2019
 - 2019/02: "Deep Metric Learning to Rank" accepted by CVPR 2019! (+NEW+: [https://github.com/kunhe/FastAP-metric-learning code] released)
 - 2018/10: Joined Facebook Reality Labs.
 - 2018/10: "Text to clip" paper accepted by AAAI 2019. 
@@ -216,11 +216,10 @@ Stochastic Functional Descent for Learning Support Vector Machines
 M.Sc. thesis, Boston University, 2013
 ~~~
 
-=== Patents
+== Patents
 [https://patents.google.com/patent/US20180246985A1/en Data storage and retrieval system using online supervised hashing]\n
 Stan Sclaroff, Fatih Cakir, *Kun He*\n
 US patent application
-
 
 == Interns I've worked with
 Xiaoxu Meng, University of Maryland, 2019
