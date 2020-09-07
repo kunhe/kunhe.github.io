@@ -13,7 +13,8 @@ Redmond, WA\n
 ~~~
 
 == About
-I am a research scientist in [https://www.facebook.com/careers/areas-of-work/facebookrealitylabs/ Facebook Reality Labs], 
+I am a research scientist in 
+[https://tech.fb.com/ar-vr/ Facebook Reality Labs Research] (FRL Research), 
 working on [https://ai.facebook.com/blog/hand-tracking-deep-neural-networks the future of interaction tracking] 
 for Virtual Reality and Augmented Reality, 
 using computer vision and machine learning techniques. (*/We are looking for interns!/*)
@@ -24,19 +25,14 @@ Previously, I earned PhD (2018) and MSc (2013) degrees in computer science from 
 advised by Professor [http://www.cs.bu.edu/~sclaroff Stan Sclaroff]. My PhD dissertation focused on 
 learning vector embeddings for image retrieval and other related computer vision tasks.
 My Bachelor's degree is from Zhejiang University, China. 
-During grad school, I did research internships 
-#with [http://cs.ubc.ca/~lsigal/ Leonid Sigal] 
-at Disney Research and
-#with [http://yan-lu.github.io Yan Lu] at 
-Honda Research Institute, 
-#I also worked with [http://cs.brown.edu/~pff Pedro Felzenszwalb] 
+During grad school, I did research internships at Disney Research and Honda Research Institute, 
 and I was a visiting student at Brown University.
 \n
 
 == News
 - 2019/09: Check out [https://ai.facebook.com/blog/hand-tracking-deep-neural-networks hand tracking on Oculus Quest]!
 - 2019/04: "Hashing with Mutual Information" accepted by IEEE TPAMI, and "Generalized Majorization-Minimization" accepted by ICML 2019
-- 2019/02: "Deep Metric Learning to Rank" accepted by CVPR 2019! (+NEW+: [https://github.com/kunhe/FastAP-metric-learning code] released)
+- 2019/02: "Deep Metric Learning to Rank" accepted by CVPR 2019! ([https://github.com/kunhe/FastAP-metric-learning code])
 - 2018/10: Joined Facebook Reality Labs.
 - 2018/10: "Text to clip" paper accepted by AAAI 2019. 
 [https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval Code] is available.
@@ -227,9 +223,9 @@ US patent application
 Fred Qi Feng, Boston University, 2020\n
 Xiaoxu Meng, University of Maryland, 2019
 
-#== Misc
+== Misc
 #- [http://www.cs.cmu.edu/~zhuxj/readpinyin.html How to pronounce Chinese names], 
 #courtesy of [http://pages.cs.wisc.edu/~jerryzhu Xiaojin Zhu]
-#- At least [http://faculty.hust.edu.cn/hekun/zh_CN/index.htm two] [http://pfind.ict.ac.cn/people/hekun/ other] computer scientists have the same English translation of their names as mine
+- At least [http://faculty.hust.edu.cn/hekun/zh_CN/index.htm two] [http://pfind.ict.ac.cn/people/hekun/ other] computer scientists have the same English translation of their names as mine.
 #- I'm very fortunate to have had [http://cs-people.bu.edu/qinxun Qinxun Bai] and 
 #[http://cs-people.bu.edu/fcakir Fatih Cakir] as officemates
