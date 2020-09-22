@@ -4,11 +4,11 @@
 {}{img_left}{kun16.jpg}{Kun}{150}{}{}
 = Kun He 何坤\n
 Research Scientist, Facebook Reality Labs\n
-Redmond, WA\n
+Redmond, WA, USA\n
 \n
 /FirstnameLastname@fb.com/\n
 #[CV_Kun_He_Feb2018.pdf Curriculum Vitae] (updated Feb 2018)\n
-[http://scholar.google.com/citations?user=eLFhiSYAAAAJ  Google Scholar] ~
+[http://scholar.google.com/citations?user=eLFhiSYAAAAJ Google Scholar] ~
 [http://www.linkedin.com/in/kunhe LinkedIn]
 ~~~
 
@@ -18,15 +18,13 @@ I am a research scientist in
 working on [https://ai.facebook.com/blog/hand-tracking-deep-neural-networks the future of interaction tracking] 
 for Virtual Reality and Augmented Reality, 
 using computer vision and machine learning techniques. (*/We are looking for interns!/*)
-#I am interested in exploring solutions to computer vision problems using machine learning 
-#techniques, and I'm frequently attracted by the optimization aspect in such problems.
 
-Previously, I earned PhD (2018) and MSc (2013) degrees in computer science from Boston University,  
-advised by Professor [http://www.cs.bu.edu/~sclaroff Stan Sclaroff]. My PhD dissertation focused on 
-learning vector embeddings for image retrieval and other related computer vision tasks.
-My Bachelor's degree is from Zhejiang University, China. 
+Previously, I earned PhD and MSc degrees in computer science from [www.bu.edu Boston University],  
+advised by [http://www.cs.bu.edu/~sclaroff Professor Stan Sclaroff]. 
+My PhD dissertation focused on learning vector embeddings for image retrieval and other related computer vision tasks.
 During grad school, I did research internships at Disney Research and Honda Research Institute, 
 and I was a visiting student at Brown University.
+I hold a Bachelor's degree in computer science from Zhejiang University, China. 
 \n
 
 == News
@@ -34,14 +32,14 @@ and I was a visiting student at Brown University.
 - 2019/04: "Hashing with Mutual Information" accepted by IEEE TPAMI, and "Generalized Majorization-Minimization" accepted by ICML 2019
 - 2019/02: "Deep Metric Learning to Rank" accepted by CVPR 2019! ([https://github.com/kunhe/FastAP-metric-learning code])
 - 2018/10: Joined Facebook Reality Labs.
-- 2018/10: "Text to clip" paper accepted by AAAI 2019. 
+- 2018/10: A paper on "text-to-clip retrieval" accepted by AAAI 2019. 
 [https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval Code] is available.
 - 2018/07: Defended PhD dissertation.
-- 2018/07: "Hashing with binary matrix pursuit" accepted by ECCV 2018.
-- 2018/06: Check out [http://github.com/kunhe/TALR code] for CVPR'18 "Tie-Aware Hashing" paper, 
-and [papers/DOAP/index.html project page] for CVPR'18 "Local Descriptors" paper.
-#- 2018/01: Paper on predicting foreground segmentation ambiguity accepted by IJCV.
-#- 2017/07: MIHash paper accepted by ICCV 2017. [https://github.com/fcakir/mihash Code released!]
+- 2018/07: "Hashing with Binary Matrix Pursuit" accepted by ECCV 2018.
+- 2018/04: Two papers in CVPR 2018: [http://github.com/kunhe/TALR Hashing as Tie-Aware Learning to Rank], 
+and [papers/DOAP/index.html Local Descriptors Optimized for Average Precision].
+- 2018/01: Paper on predicting foreground segmentation ambiguity accepted by IJCV.
+- 2017/07: "MIHash: Online Hashing with Mutual Information" accepted by ICCV 2017. ([https://github.com/fcakir/mihash code])
 
 
 == Publications
@@ -220,8 +218,8 @@ Stan Sclaroff, Fatih Cakir, *Kun He*\n
 US patent application
 
 == Interns I've worked with
-Fred Qi Feng, Boston University, 2020\n
-Xiaoxu Meng, University of Maryland, 2019
+- Fred Qi Feng, Boston University, 2020
+- Xiaoxu Meng, University of Maryland, 2019
 
 == Misc
 #- [http://www.cs.cmu.edu/~zhuxj/readpinyin.html How to pronounce Chinese names], 
