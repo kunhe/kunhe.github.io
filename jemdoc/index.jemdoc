@@ -19,10 +19,10 @@ I am a research scientist in
 working on [https://ai.facebook.com/blog/hand-tracking-deep-neural-networks the future of interaction tracking] 
 for Virtual Reality and Augmented Reality, 
 using computer vision and machine learning techniques. 
-[https://www.facebook.com/careers/jobs/353607426052900/ We are looking for interns!]
+#[https://www.facebook.com/careers/jobs/353607426052900/ We are looking for interns!]
 
 Previously, I earned PhD and MSc degrees in computer science from [http://www.bu.edu Boston University],  
-advised by [http://www.cs.bu.edu/~sclaroff Professor Stan Sclaroff]. 
+advised by [https://www.bu.edu/cs/profiles/stan-sclaroff/ Professor Stan Sclaroff]. 
 My PhD dissertation focused on learning vector embeddings for image retrieval and other related computer vision tasks.
 During grad school, I did research internships at Disney Research and Honda Research Institute, 
 and I was a visiting student at Brown University.
@@ -57,7 +57,7 @@ Hashing with Mutual Information
 *Kun He*\*, 
 [http://cs-people.bu.edu/fcakir *Fatih Cakir*]\*, 
 [http://cs-people.bu.edu/sbargal Sarah Adel Bargal], 
-[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+[https://www.bu.edu/cs/profiles/stan-sclaroff/ Stan Sclaroff]\n
 (\* Equal contribution)\n
 TPAMI 2019
 ~~~
@@ -70,9 +70,7 @@ Predicting Foreground Object Ambiguity and Efficiently Crowdsourcing the Segment
 [http://www.ischool.utexas.edu/~dannag/ Danna Gurari], 
 *Kun He*, 
 Bo Xiong, Jianming Zhang, Mehrnoosh Sameki, Suyog Dutt Jain, 
-[http://www.cs.bu.edu/~sclaroff Stan Sclaroff], 
-[http://www.cs.bu.edu/~betke Margrit Betke], 
-[http://www.cs.utexas.edu/~grauman Kristen Grauman]\n
+Stan Sclaroff, Margrit Betke, Kristen Grauman\n
 IJCV 2018
 ~~~
 
@@ -87,12 +85,8 @@ Deep Metric Learning to Rank
 [papers/cvpr2019_poster.pdf \[Poster\]]
 [https://github.com/kunhe/FastAP-metric-learning \[Code\]]
 \n
-*Kun He*\*, 
-[http://cs-people.bu.edu/fcakir *Fatih Cakir*]\*, 
-[http://xidexia.github.io Xide Xia], 
-[http://people.bu.edu/bkulis Brian Kulis], 
-[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]
-\n
+*Kun He*\*, *Fatih Cakir*\*, [http://xidexia.github.io Xide Xia], 
+[http://people.bu.edu/bkulis Brian Kulis], Stan Sclaroff\n
 (\* Equal contribution)\n
 [http://cvpr2019.thecvf.com/ CVPR 2019]
 ~~~
@@ -101,9 +95,7 @@ Deep Metric Learning to Rank
 {}{img_left}{images/gmm.png}{G-MM}{150px}{70px}{}
 Generalized Majorization-Minimization 
 [http://proceedings.mlr.press/v97/parizi19a \[PDF\]]\n
-Sobhan Naderi Parizi, *Kun He*, Reza Aghajani, 
-[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff], 
-Pedro Felzenszwalb\n
+Sobhan Naderi Parizi, *Kun He*, Reza Aghajani, Stan Sclaroff, Pedro Felzenszwalb\n
 [https://icml.cc/Conferences/2019 ICML 2019]
 ~~~
 
@@ -114,12 +106,8 @@ Multilevel Language and Vision Integration for Text-to-Clip Retrieval
 [https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval
 \[Code\]]
 \n
-[http://cs-people.bu.edu/hxu/ Huijuan Xu], 
-*Kun He*, 
-[http://bryanplummer.com Bryan A. Plummer], 
-[http://cs.ubc.ca/~lsigal Leonid Sigal], 
-[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff],  
-[http://ai.bu.edu/ksaenko.html Kate Saenko] \n
+[http://cs-people.bu.edu/hxu/ Huijuan Xu], *Kun He*, Bryan A. Plummer, 
+[http://cs.ubc.ca/~lsigal Leonid Sigal], Stan Sclaroff, Kate Saenko\n
 [https://aaai.org/Conferences/AAAI-19/ AAAI 2019]
 ~~~
 
@@ -129,9 +117,7 @@ Hashing with Binary Matrix Pursuit
 [http://openaccess.thecvf.com/content_ECCV_2018/html/Fatih_Cakir_Hashing_with_Binary_ECCV_2018_paper.html \[PDF\]]
 [http://cs-people.bu.edu/fcakir/eccv2018/hbmp-poster.pdf \[Poster\]]
 \n
-[http://cs-people.bu.edu/fcakir Fatih Cakir], 
-*Kun He*, 
-[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+Fatih Cakir, *Kun He*, Stan Sclaroff\n
 [https://eccv2018.org ECCV 2018]
 ~~~
 
@@ -140,9 +126,7 @@ Hashing with Binary Matrix Pursuit
 Local Descriptors Optimized for Average Precision
 [http://openaccess.thecvf.com/content_cvpr_2018/html/He_Local_Descriptors_Optimized_CVPR_2018_paper.html \[PDF\]]
 [papers/DOAP/index.html \[Project page\]] \n
-*Kun He*, 
-[http://yan-lu.github.io Yan Lu], 
-[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+*Kun He*, [http://yan-lu.github.io Yan Lu], Stan Sclaroff\n
 [http://cvpr2018.thecvf.com/ CVPR 2018]
 ~~~
 
@@ -152,10 +136,7 @@ Hashing as Tie-Aware Learning to Rank
 [http://openaccess.thecvf.com/content_cvpr_2018/html/He_Hashing_as_Tie-Aware_CVPR_2018_paper.html \[PDF\]]
 [papers/cvpr2018_TALR_poster.pdf \[Poster\]]
 [http://github.com/kunhe/TALR \[Code\]] \n
-*Kun He*, 
-[http://cs-people.bu.edu/fcakir Fatih Cakir], 
-[http://cs-people.bu.edu/sbargal Sarah Adel Bargal], 
-[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+*Kun He*, Fatih Cakir, Sarah Adel Bargal, Stan Sclaroff\n
 [http://cvpr2018.thecvf.com/ CVPR 2018]
 ~~~
 
@@ -165,10 +146,7 @@ MIHash: Online Hashing with Mutual Information
 [http://openaccess.thecvf.com/content_iccv_2017/html/Cakir_MIHash_Online_Hashing_ICCV_2017_paper.html \[PDF\]] 
 [papers/iccv2017_poster.pdf \[Poster\]]
 [https://github.com/fcakir/mihash \[Code\]]\n
-*Kun He*\*, 
-[http://cs-people.bu.edu/fcakir *Fatih Cakir*]\*, 
-[http://cs-people.bu.edu/sbargal Sarah Adel Bargal],
-[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+*Kun He*\*, *Fatih Cakir*\*, Sarah Adel Bargal, Stan Sclaroff\n
 (\* Equal contribution)\n
 [http://iccv2017.thecvf.com ICCV 2017]
 ~~~
@@ -179,9 +157,7 @@ Parameterizing Object Detectors in the Continuous Pose Space
 [papers/eccv2014.pdf \[PDF\]]
 [papers/eccv2014_poster.pdf \[Poster\]]
 [http://youtu.be/1lpORI6ZnjE \[video\]]\n
-*Kun He*, 
-[http://cs.ubc.ca/~lsigal Leonid Sigal], 
-[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+*Kun He*, Leonid Sigal, Stan Sclaroff\n
 ECCV 2014\n
 [papers/eccv2014_tr.pdf \[Tech report on implementation\]] 
 ~~~
@@ -191,9 +167,7 @@ ECCV 2014\n
 Scale Resilient, Rotation Invariant Articulated Object Matching 
 [papers/cvpr2012.pdf \[PDF\]]\n
 [http://www.hao-jiang.net/ Hao Jiang], 
-[http://scholar.google.com/citations?user=1MceCxsAAAAJ Tai-Peng Tian], 
-*Kun He*, 
-[http://www.cs.bu.edu/~sclaroff/ Stan Sclaroff]\n
+Tai-Peng Tian, *Kun He*, Stan Sclaroff\n
 CVPR 2012 
 ~~~
 
@@ -217,7 +191,7 @@ M.Sc. thesis, Boston University, 2013
 == Patents
 [https://patents.google.com/patent/US20180246985A1/en Data storage and retrieval system using online supervised hashing]\n
 Stan Sclaroff, Fatih Cakir, *Kun He*\n
-US patent application
+US patent
 
 == Interns I've worked with
 - Fred Qi Feng, Boston University, 2020 & 2021
