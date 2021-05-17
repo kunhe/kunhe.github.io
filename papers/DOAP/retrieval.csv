@@ -1,0 +1,4 @@
+descriptor,split,geom_noise,method,mauc,map
+DOAP-HP-ST-LM-a,a,easy,removequery,0.860117198323479,0.867744468933946
+DOAP-HP-ST-LM-a,a,hard,removequery,0.843495287706004,0.851418246860188
+DOAP-HP-ST-LM-a,a,tough,removequery,0.808983061677204,0.817946326092524

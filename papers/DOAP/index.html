@@ -1,0 +1,172 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" href="RET.css" type="text/css" />
+<title>Local Descriptors Optimized for Average Precision</title>
+</head>
+
+<body>
+<table class="imgtable" width="800px" align="center">
+<tr align="center"><td>
+<h1>Local Descriptors Optimized for Average Precision</h1>
+<p>
+<strong><a href="http://kunhe.github.io">Kun He</a>, 
+	<a href="http://yan-lu.github.io">Yan Lu</a>, 
+	<a href="http://www.cs.bu.edu/~sclaroff">Stan Sclaroff</a></strong> <br>
+</p>
+<img style="width: 640;" alt="pipeline" src="DOAP.png">
+</td></tr>
+
+<tr><td>
+<p>
+Extraction of local feature descriptors is a vital stage in numerous computer vision pipelines. 
+We improve the learning of local feature descriptors by optimizing 
+the performance of descriptor matching,  which is a common stage that follows 
+descriptor extraction in local feature based pipelines,  and can be formulated as 
+nearest neighbor retrieval. Specifically,  we directly optimize a ranking-based 
+retrieval performance metric,  <em>Average Precision</em>,  using deep neural networks. 
+This general-purpose solution can also be viewed as a "learning to rank" 
+approach with a listwise loss,  which is advantageous compared to recent local ranking approaches. 
+</p>
+</td></tr>
+<br>
+
+	<tr><td>
+<h2>Paper</h2>
+<p>
+Kun He, Yan Lu, and Stan Sclaroff. 
+<br> &quot;Local Descriptors Optimized for Average Precision,&quot; 
+<br> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.<br>
+[<a class="nonblock" href="http://openaccess.thecvf.com/content_cvpr_2018/papers/He_Local_Descriptors_Optimized_CVPR_2018_paper.pdf"><b>PDF</b></a>] 
+[<a class="nonblock" href="./DOAP_poster.pdf"><b>Poster</b></a>]
+</p>
+<p><strong>Please cite this paper as:</strong></p>
+<tt>
+@inproceedings{He_2018_DOAP,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Local Descriptors Optimized for Average Precision},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={He, Kun and Lu, Yan and Sclaroff, Stan},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;month={June},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2018}<br>
+&nbsp;&nbsp;}
+</tt>
+
+<h2>Downloads</h2>
+<h3>Update Nov. 9, 2018: previously, 
+	for the DOAP and DOAP-ST models trained on UBC-Liberty, 
+	incorrect links were provided.
+	Please re-download them. We apologize for the oversight.
+</h3>
+<h3>Pretrained models</h3>
+<p>
+We provide pretrained models on the benchmarks used in the paper.
+</p>
+<p>
+Our implementation is based on <a href="http://vlfeat.org/matconvnet/">MatConvNet</a>,  
+and the models are in <a href="http://www.vlfeat.org/matconvnet/wrappers/">DagNN format</a>.
+We use the L2-Net architecture proposed in [2].
+Models with suffix "_ST" are augmented with the Spatial Transformer module [3], 
+and suffix "_LM" means label mining is used during training.
+</p>
+<p>
+<b>Real-valued (128-d with L2-normalization)</b>: <br>
+HPatches: 
+<a href="HPatches_128d.mat">HPatches_128d.mat</a> 
+<a href="HPatches_ST_LM_128d.mat">HPatches_ST_LM_128d.mat</a><br>
+UBC-Liberty: 
+<a href="Liberty_128d.mat">Liberty_128d.mat</a>
+<a href="Liberty_ST_128d.mat">Liberty_ST_128d.mat</a><br>
+RomePatches: 
+<a href="RomePatches_128d.mat">RomePatches_128d.mat</a>
+</p>
+<p>
+<b>Binary (256-bit)</b>: <br>
+UBC-Liberty: 
+<a href="Liberty_256b.mat">Liberty_256b.mat</a>
+<a href="Liberty_ST_256b.mat">Liberty_ST_256b.mat</a><br>
+RomePatches: 
+<a href="RomePatches_256b.mat">RomePatches_256b.mat</a>
+</p>
+
+<h3>HPatches results</h3>
+<h3>Update Nov. 9, 2018: 
+	Following the experimental setup of HardNet [5], we now provide 
+	<a href="doap_liberty_hp_full_csv.zip">.csv files</a> 
+	for results on the "full" split of HPatches, 
+	for DOAP and DOAP-ST trained on UBC-Liberty.</h3>
+<p>We provide original .csv files corresponding to the results reported on the
+<a href="http://hpatches.github.io">HPatches benchmark</a> [4] in the paper.
+<br>
+<a href="verification.csv">verification.csv</a>
+<a href="retrieval.csv">retrieval.csv</a>
+<a href="matching.csv">matching.csv</a>
+</p>
+<p>
+Note: all results are obtained on the test set of the "a" split.
+</p>
+<img style="width: 720;" alt="HP" src="HP.png">
+
+<h3>Code</h3>
+<p>
+Supporting layer definitions:<br>
+<a href="DOAP-layers.zip">DOAP-layers.zip</a>
+</p>
+<p>
+Testing code:<br>
+<a href="code/patch_normalize.m">patch_normalize.m</a><br>
+<a href="code/cnn_encode.m">cnn_encode.m</a>
+</p>
+
+<h3>Code for CVPR'18 &quot;Tie-Aware Hashing&quot; paper </h3>
+<p>
+Our AP optimization builds on the techniques developed in [1],  
+which solves the "supervised hashing" problem for image retrieval.
+Code for that paper is here: <a href="https://github.com/kunhe/TALR">https://github.com/kunhe/TALR</a>
+</p>
+
+<h2>References</h2>
+<p>
+[1] Kun He, Fatih Cakir, Sarah Adel Bargal, and Stan Sclaroff.
+&quot;Hashing as Tie-Aware Learning to Rank,&quot;
+IEEE CVPR 2018
+</p>
+<p>
+[2] Yurun Tian, Bin Fan, and Fuchao Wu.
+&quot;L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space,&quot;
+IEEE CVPR 2017
+</p>
+<p>
+[3] Max Jaderberg, Karen Simonyan, Andrew Zisserman, and Koray Kavukcuoglu.
+&quot;Spatial Transformer Networks,&quot; NIPS 2015
+</p>
+<p>
+[4] Vassileios Balntas*, Karel Lenc*, Andrea Vedaldi,  and Krystian Mikolajczyk.
+&quot;HPatches: A benchmark and evaluation of handcrafted and learned local descriptors,&quot;
+IEEE CVPR 2017
+</p>
+<p>
+[5] Anastasiya Mishchuk, Dmytro Mishkin, Filip Radenovic, and Jiri Matas.
+&quot;Working hard to know your neighbor's margins: Local descriptor learning loss,&quot;
+NIPS 2017
+</p>
+
+<h2>Contact</h2>
+<p>
+For questions/comments, please contact:<br>
+Kun He, kunhe@ieee.org
+</p>
+
+<div id="footer">
+<div id="footer-text">
+<p>
+	<i>Last update: Nov 9, 2018</i>
+</p>
+</div>
+<div style="width:320;">
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=vrrG_MOVlX9LU5iqvt3ItXrjtdh1JZ0apaKG_x0dvmg&cl=ffffff&w=a"></script>
+</div>
+</div>
+
+
+</td></tr>
+</table>
+</body></html>
